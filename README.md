@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola, bienvenido a mi repositorio soy Felipe Contreras Pacheco.
 
-<!--
-**felipecpdev/felipecpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** **
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Felipe Contreras
+
+</div>
+
+Soy Ingeniero Civil Informático titulado de la Universidad del Bío-Bío y también Desarrollador de Software oriundo de la ciudad de Chillán.
+
+**Como Desarrollador de Software** he trabajado para empresas como _Amisoft_ y _EDDVANTAGE Spa_.
+
+Para más información visita mi página web <a href="https://felipecpdev.github.io/portfolio/" target="_blank" rel="noopener">felipecpdev.github.io</a>.
