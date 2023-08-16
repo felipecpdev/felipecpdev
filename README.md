@@ -1,7 +1,3 @@
-Hola, bienvenido a mi repositorio soy Felipe Contreras Pacheco.
-
-** **
-
 <div align="center">
 
 # Felipe Contreras
